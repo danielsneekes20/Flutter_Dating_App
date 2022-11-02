@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913820787791",
+    "project_id": "couply-4b5c9",
+    "storage_bucket": "couply-4b5c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913820787791:android:12ae2bc39802af70ba363a",
+        "android_client_info": {
+          "package_name": "com.example.dating_app_ikfram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913820787791-0m71hnjqknmabb9tvvhcs9curc2nnp8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqg5VFbdsNFG272_7jsg3caiq_ykZzZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913820787791-0m71hnjqknmabb9tvvhcs9curc2nnp8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
